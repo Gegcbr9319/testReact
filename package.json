@@ -11,10 +11,12 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
     "@fortawesome/free-solid-svg-icons": "^6.4.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
@@ -26,6 +28,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "typescript": "^5.0.2",
+    "typescript-plugin-css-modules": "^5.0.2",
     "vite": "^4.4.5"
   }
 }
